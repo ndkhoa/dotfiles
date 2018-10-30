@@ -1,6 +1,11 @@
 My lovely dotfiles
 =========================
 
+TODO
+--------------
+
+Add zsh
+
 Installation
 --------------
 
