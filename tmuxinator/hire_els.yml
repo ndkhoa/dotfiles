@@ -1,0 +1,12 @@
+# ~/.tmuxinator/hire_els.yml
+
+name: hire_els
+root: ~/beanstalkapp/koah_hire
+
+windows:
+    - hire:
+        layout: 0e98,206x59,0,0{103x59,0,0,0,102x59,104,0[102x29,104,0,1,102x29,104,30,2]}
+        panes:
+            - elasticsearch
+            - redisserver
+            - besidekiq

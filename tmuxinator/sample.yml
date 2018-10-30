@@ -1,0 +1,12 @@
+# ~/.tmuxinator/sample.yml
+
+name: sample
+root: ~/
+
+windows:
+  - top:
+    - top
+  - htop:
+    - htop
+  - vtop:
+    - vtop

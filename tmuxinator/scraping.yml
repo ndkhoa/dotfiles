@@ -1,0 +1,9 @@
+# ~/.tmuxinator/scraping.yml
+
+name: scraping
+root: ~/Videos/web_scraping_with_ruby-master
+
+windows:
+  - scraping:
+  - script:
+    - cd ../script

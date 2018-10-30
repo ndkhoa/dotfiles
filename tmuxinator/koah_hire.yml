@@ -1,0 +1,10 @@
+# ~/.tmuxinator/koah_hire.yml
+
+name: koah_hire
+root: ~/beanstalkapp/koah_hire
+
+windows:
+  - rails-server:
+  - rails-console:
+  - rspec:
+  - git:
